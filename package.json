@@ -1,0 +1,11 @@
+{
+  "name": "crypto-tx-analyzer",
+  "version": "1.0.0",
+  "description": "Crypto Transaction Analyzer powered by MiniMax AI",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": ["crypto", "blockchain", "analyzer", "minimax", "ai"],
+  "license": "MIT"
+}
